@@ -14,7 +14,7 @@ image:
 
 ui:
   color: "#34577c"
-  message: ""
+  message: "Hello Cristian"
   logo: ""
 
 # failure conditions
